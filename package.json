@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-starter",
-  "version": "1.0.0",
-  "description": "Nuxt.js + Vuetify.js + Google Material Icons project template",
-  "author": "Martin Dünkelmann <nc-duenkekl3@netcologne.de>",
+  "name": "lucfrga",
+  "version": "0.0.1",
+  "description": "Vuetify + Nuxt.js + Netlify",
+  "author": "blvkoblsk <blvkoblsk@gmail.com>",
   "homepage": "https://martinx3.github.io/",
   "license": "SEE LICENSE IN LICENSE",
   "private": true,
@@ -23,8 +23,8 @@
     "babel-eslint": "^8.2.3",
     "babel-plugin-transform-imports": "^1.4.1",
     "eslint": "^4.3.0",
-    "eslint-friendly-formatter": "^4.0.1",
     "eslint-config-standard": "^11.0.0",
+    "eslint-friendly-formatter": "^4.0.1",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-html": "^4.0.3",
     "eslint-plugin-import": "^2.7.0",
@@ -34,5 +34,7 @@
     "eslint-plugin-vue": "^4.0.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/blvkoblsk/lucfrga.git"
 }

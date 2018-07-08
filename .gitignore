@@ -1,14 +1,20 @@
-# dependencies
+# OSX SPECIFICS
+.DS_Store
+
+# DEPENDENCIES
 node_modules
 
-# logs
+# lOGS
 npm-debug.log
 
-# Nuxt build
+# NUXT BUILD
 .nuxt
 
-# Nuxt generate
+# NUXT GENERATE
 dist
 
-#IntelliJ
+# IntelliJ
 .idea
+
+# YARN
+yarn-error.log
