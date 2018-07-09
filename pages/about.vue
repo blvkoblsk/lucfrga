@@ -1,10 +1,4 @@
-<!--
-  - Created by Martin Dünkelmann on 14.05.18 19:13
-  - Copyright (c) 2018. All rights reserved.
-  -
-  - Last modified 14.05.18 18:41
-  -->
-
+// ABOUT PAGE
 <template>
   <v-layout>
     <v-flex text-xs-center>
