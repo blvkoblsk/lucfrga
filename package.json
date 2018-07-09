@@ -2,8 +2,8 @@
   "name": "lucfrga",
   "version": "0.0.1",
   "description": "Vuetify + Nuxt.js + Netlify",
-  "author": "blvkoblsk <blvkoblsk@gmail.com>",
-  "homepage": "https://martinx3.github.io/",
+  "author": "blvkoblsk",
+  "homepage": "https://lucfr.ga",
   "license": "SEE LICENSE IN LICENSE",
   "private": true,
   "scripts": {

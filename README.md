@@ -1,23 +1,51 @@
-[![Build Status](https://travis-ci.org/MartinX3/nuxt-starter.svg?branch=master)](https://travis-ci.org/MartinX3/nuxt-starter)
-# nuxt-starter
+# LUCFR.GA
 
-> Nuxt.js + Vuetify.js + Google Material Icons project template
+> Utilizing [Vuetify.js](https://vuetifyjs.com/) and [Nuxt.js](https://github.com/nuxt/nuxt.js) and deployed to [Netlify](https://netlify.com) - Originally forked from nuxt-starter.
 
-## Build Setup
+---
+
+## Prerequisites
+
+Familiarity with working from the [CLI](https://github.com/jlevy/the-art-of-command-line), [Yarn](https://yarnpkg.com/), front-end development and javascript frameworks such as [Vue](https://vuejs.org/), [Webpack](https://github.com/webpack/webpack), [Babel](https://github.com/babel/babel-loader), etc.
+
+---
+
+## Installation (localhost)
 
 ``` bash
-# install dependencies
-$ npm install # Or yarn install
+# fork this repo via Github then clone to your machine
+$ git clone https://github.com/blvkoblsk/lucfrga.git
+
+# install the project dependencies
+$ yarn install
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ yarn run dev
 
 # build for production and launch server
-$ npm run build
-$ npm start
+$ yarn run build
+$ yarn start
 
 # generate static project
-$ npm run generate
+$ yarn run generate
 ```
+---
 
-For detailed explanation on how things work, check out the [Nuxt.js](https://github.com/nuxt/nuxt.js) and [Vuetify.js](https://vuetifyjs.com/) documentation.
+## Other Documentation & Ecosystems
+
+🖤 &nbsp; [Vuetify Quick Start](https://vuetifyjs.com/en/getting-started/quick-start)
+
+🖤 &nbsp; [Nuxt.js Guide](https://nuxtjs.org/guide) 
+
+🖤 &nbsp; [Awesome Vuetify](https://github.com/vuetifyjs/awesome-vuetify)
+
+🖤 &nbsp; [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
+
+---
+```
+NOTE
+
+While this project and source code are deployed on Netlify and hosted on Github - it is a WIP and could be unstable for other projects as it will be added to with advanced features of Vuetify, Nuxt, and more.
+```
+---
+ [BLVKOBLSK](https://blvkoblsk.github.io) - 2018

@@ -1,9 +1,5 @@
-/*
- * Created by Martin Dünkelmann on 14.05.18 18:58
- * Copyright (c) 2018. All rights reserved.
- *
- * Last modified 14.05.18 18:41
- */
+/*  ESLINT.JS - LUCFR.GA */
+
 module.exports = {
   root: true,
   parserOptions: {
